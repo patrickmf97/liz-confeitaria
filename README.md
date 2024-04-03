@@ -9,7 +9,7 @@ Visite o site em [confeitariadaliz.shop](https://confeitariadaliz.shop/).
 - <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React.js
 - <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> Tailwind CSS
 - <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React Router
-- <img src="https://hpanel-main.hostinger.com/assets/images/logos/hostinger-v2.svg"/> Hosting: Hostinger
+- <img src="https://icons-for-free.com/iff/png/256/Hostinger-1329545820965555584.png"/> Hosting: Hostinger
 
 ## Descrição
 
