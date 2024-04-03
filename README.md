@@ -6,10 +6,10 @@ Visite o site em [confeitariadaliz.shop](https://confeitariadaliz.shop/).
 
 ## Tecnologias Utilizadas
 
-- <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React.js
-- <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> Tailwind CSS
-- <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React Router
-- <img src="https://icons-for-free.com/iff/png/256/Hostinger-1329545820965555584.png"/> Hosting: Hostinger
+- <img src="https://img.icons8.com/color/48/000000/react-native.png" style="width: 20px; height: 20px;"/> React.js
+- <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" style="width: 20px; height: 20px;"/> Tailwind CSS
+- <img src="https://img.icons8.com/color/48/000000/react-native.png" style="width: 20px; height: 20px;"/> React Router
+- <img src="https://icons-for-free.com/iff/png/256/Hostinger-1329545820965555584.png" style="width: 20px; height: 20px;"/> Hosting: Hostinger
 
 ## Descrição
 
@@ -33,5 +33,3 @@ Durante o desenvolvimento deste projeto, enfrentamos alguns desafios, incluindo:
 3. **Integração com API**: Conectar o front-end com uma API para buscar e exibir dados dinâmicos, como produtos e informações da confeitaria.
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato conosco!
-
-
