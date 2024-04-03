@@ -10,7 +10,7 @@ export default function Contact() {
       <div className="fixed top-0 w-full z-50">
         <Nav />
       </div>
-      <div className="text-center flex flex-col justify-center w-screen mt-20">
+      <div className="text-center bg-primary-200 flex flex-col justify-center w-screen mt-20">
         <h2 className="text-xl mb-4">
           <a href="https://wa.me/+5521991403183" className="flex items-center justify-center space-x-2 text-primary-600 hover:text-primary-800 focus:text-primary-800">
             <FontAwesomeIcon icon={faWhatsapp} className="text-lg" />

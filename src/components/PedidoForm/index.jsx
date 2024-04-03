@@ -69,9 +69,9 @@ const PedidoForm = () => {
       <div className="fixed top-0 w-full z-50">
         <Nav />
       </div>
-      <div className="flex items-center justify-center mt-16 min-h-screen max-h-3screean max-w-screen">
+      <div className="flex bg-primary-200 items-center justify-center mt-16 min-h-screen max-h-3screean max-w-screen">
         <div className="p-4 bg-primary-100 rounded-lg shadow-lg">
-          <h2 className="text-2xl font-bold mb-4">Faça seu Pedido</h2>
+          <h2 className="text-2xl font-bold mb-4 text-white">Faça seu Pedido</h2>
           <form onSubmit={handleSubmit} className="text-gray-800">
             <div className="mb-4">
               <label className="block font-bold mb-2" htmlFor="nome">

@@ -45,7 +45,7 @@ const Page = () => {
           </div>
         </div>
       </section>
-      <main id="main-content" className="flex flex-col items-center justify-center pb-20"> 
+      <main id="main-content" className="flex flex-col bg-primary-200 items-center justify-center pb-20"> 
         <h2 className="text-3xl flex text-center font-extrabold bg-gradient-to-r text-gray-900 relative pb-4">
           <span className="bg-gradient-to-r from-primary-700 to-secondary-500 bg-clip-text text-transparent">Feedback dos nossos Clientes</span>
           <span className="absolute top-0 left-0 h-0.5 bg-primary-700 w-1/4"></span>

@@ -36,7 +36,7 @@ export default function Card({ texto }) {
 
   return (
     <div > 
-      <figure className={`card flex flex-col lg:flex-row rounded-xl mx-11 p-8 md:p-0 dark:bg-primary-800 max-w-[25rem] overflow-hidden `}>
+      <figure className={`card flex flex-col lg:flex-row rounded-xl mx-11 p-8 md:p-0 bg-primary-800 max-w-[25rem] overflow-hidden `}>
         <div className="md:w-48 md:h-48 md:max-w-none md:max-h-none md:rounded-full rounded-full mx-auto">
           <img
             src={Logo}
