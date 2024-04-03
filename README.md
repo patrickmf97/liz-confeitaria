@@ -15,6 +15,15 @@ Visite o site em [confeitariadaliz.shop](https://confeitariadaliz.shop/).
 
 A Confeitaria da Liz é um projeto desenvolvido para mostrar os deliciosos produtos e serviços oferecidos pela confeitaria do proprietário. Além de exibir os produtos, também oferecemos a opção de fazer pedidos sem entrega. Basta preencher o formulário de pedido e ele será enviado diretamente para o WhatsApp do proprietário.
 
+![image](https://github.com/patrickmf97/liz-confeitaria/assets/111186316/5b5a6370-10d6-458f-9ad1-3b7bc7decf94)
+
+![image](https://github.com/patrickmf97/liz-confeitaria/assets/111186316/c279ee53-e1b5-4597-a03a-efcb274b650d)
+
+![image](https://github.com/patrickmf97/liz-confeitaria/assets/111186316/9c79dddb-e964-4cdd-80bf-ba9fe7a8241b)
+
+![image](https://github.com/patrickmf97/liz-confeitaria/assets/111186316/b358c8b2-d5e3-45be-822b-8b36ad88b1b2)
+
+
 ## Desafios
 
 Durante o desenvolvimento deste projeto, enfrentamos alguns desafios, incluindo:
