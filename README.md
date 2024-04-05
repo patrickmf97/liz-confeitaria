@@ -19,9 +19,14 @@ A Confeitaria da Liz é um projeto desenvolvido para mostrar os deliciosos produ
 
 ![image](https://github.com/patrickmf97/liz-confeitaria/assets/111186316/c279ee53-e1b5-4597-a03a-efcb274b650d)
 
-![image](https://github.com/patrickmf97/liz-confeitaria/assets/111186316/9c79dddb-e964-4cdd-80bf-ba9fe7a8241b)
+![image](https://github.com/patrickmf97/liz-confeitaria/assets/111186316/10f6fb84-00c3-4cc8-8829-85c7e6dab025)
 
 ![image](https://github.com/patrickmf97/liz-confeitaria/assets/111186316/b358c8b2-d5e3-45be-822b-8b36ad88b1b2)
+
+![image](https://github.com/patrickmf97/liz-confeitaria/assets/111186316/2f1d767a-b23b-45cf-91e3-4f74438e36bf) ![image](https://github.com/patrickmf97/liz-confeitaria/assets/111186316/272b49f0-e5c4-4916-b167-7141ca1449f0) ![image](https://github.com/patrickmf97/liz-confeitaria/assets/111186316/cfaae60d-405d-4dd6-9dd5-aee275695518)
+
+
+
 
 
 ## Desafios
