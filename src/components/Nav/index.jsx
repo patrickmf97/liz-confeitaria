@@ -73,6 +73,25 @@ function Nav() {
               </div>
             </div>
           </div>
+          {/* Mobile menu */}
+          <Disclosure.Panel className="sm:hidden">
+            <div className="px-2 pt-2 pb-3 space-y-1">
+              {navigation.map((item) => (
+                <Link
+                  key={item.name}
+                  to={item.href} 
+                  onClick={item.name === 'Feedback' ? scrollToMainContent : null} 
+                  className={`
+                    ${item.current ? 'bg-secondary-700 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white'}
+                    block px-3 py-2 rounded-md text-base font-medium
+                  `}
+                  aria-current={item.current ? 'page' : undefined}
+                >
+                  {item.name}
+                </Link>
+              ))}
+            </div>
+          </Disclosure.Panel>
         </>
       )}
     </Disclosure>
